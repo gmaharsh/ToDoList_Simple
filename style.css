@@ -7,4 +7,17 @@
 }
 body{
 	background: url("http://tamiltutorials.in/wp-content/uploads/2014/12/Light-green-website-plain-background.jpg");
+	text-align: center;
+	padding-top: 15%;
+}
+
+h1{
+	font-family: 'Fjalla One', sans-serif;
+	color: #00FFFF;
+}
+
+ul{
+	font-family: 'Russo One', sans-serif;
+	color: #38B0DE;
+	text-align: center;
 }
